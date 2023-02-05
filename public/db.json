@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "companyLogo": null,
+      "company_name": "Bkashpro",
+      "nationality": "Bangladesh India",
+      "ownership": "Bkash Company Pro",
+      "id": 1
+    },
+    {
+      "companyLogo": null,
+      "company_name": "Google",
+      "nationality": "USAAAAAAAAAAA",
+      "ownership": "GOOOOOOOOOOOOGLE",
+      "id": 2
+    }
+  ]
+}
